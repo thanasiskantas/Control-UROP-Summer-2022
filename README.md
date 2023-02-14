@@ -8,4 +8,4 @@ A Dynamic Observer was also implemented to estimate the unobservable states of t
 3. A report of the project is included, containing all the details and steps of the project
 
 
-All rights of this project belong to Athansios Kantas, Henry Haussaman, Ali Orkun Ozkan
+All rights of this project belong to Athansios Kantas, Henry Hausamann, Ali Orkun Ozkan
